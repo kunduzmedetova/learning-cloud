@@ -1,0 +1,27 @@
+@media handheld, only screen and (max-width:1024px){#videos .thumb{float:none;margin:0 auto;max-width:178px;}
+}
+@media handheld, only screen and (max-width:950px){}
+@media handheld, only screen and (max-width:767px){#suscribe,
+#features,
+#intro{text-align:center;}
+#pricing .item{margin:0 auto 20px;}
+#suscribe .img-responsive{margin:0 auto;}
+#videos .carousel{padding:0 25px;}
+.carousel-control span{left:-8px !important;}
+.carousel-control.right span{left:auto !important;right:-6px !important;}
+#intro .img-intro{margin:0 auto;}
+header .navbar-nav{float:none;}
+#gallery .item .hover{}
+.navbar-nav{padding:5px 0 0 0;}
+.navbar-nav > li{display:block;float:none;font-size:15px;width:100%;margin-bottom:2px;}
+header .navbar-nav > li > a{background:#2D3E50;border-radius:3px 3px 3px 3px;font-size:13.5px;line-height:normal;margin:0;padding:5px 25px;}
+header .navbar-nav{float:none;text-align:left;}
+header .navbar-nav > li > a{text-align:center;}
+.navbar-collapse{border:0 !important;margin-top:5px;}
+.btns-group{margin-bottom:25px;}
+}
+@media handheld, only screen and (max-width:600px){#logo img{max-width:150px;margin-top:8px;}
+}
+@media handheld, only screen and (max-width:568px){}
+@media handheld, only screen and (max-width:480px){}
+@media handheld, only screen and (max-width:320px){}
