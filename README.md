@@ -35,7 +35,7 @@ $('a.embed').gdocsViewer({ width: 400, height: 500 });
 The plugin inserts a the IFRAME for the viewer inside an injected DIV. The DIV tags all carry the class name "gdocsviewer", which allow for styling all the gdocsViewer instances via CSS. If the anchor tag has the ID attribute defined, then the injected DIV tag is also set an ID attribute in the format of ID_of_Anchor + '-gdocsviewer'. See the demo source code for more details.
 
 ## Demo
-- Check out the live demonstration (http://www.cloud.rimsal.uz)
+- Check out the live demonstration (http://cloud.rimsal.uz)
 
 ## License
 This script is released under the Open Source MIT License, allowing its use in both personal and commercial applications as long as the copyright and license permission notice remains intact.
